@@ -1,1 +1,2 @@
-# IC_detector_python
+# IC Detector-python
+This very simple Python command-line program provides a quick and efficient lookup system for commonly used integrated circuits (ICs) by their numerical codes. Users can input standard IC codes—such as “7400”, “555”, or “4017”—and instantly see the corresponding function and description (e.g., Quad 2-input NAND Gate or Timer IC). The tool is built around a dictionary-based mapping for rapid data retrieval and supports repeated queries in a user-friendly, interactive loop. It is ideal for students, electronics enthusiasts, and engineers who need to readily identify ICs during circuit design, debugging, or lab work, thus enhancing productivity and reducing errors in component identification
